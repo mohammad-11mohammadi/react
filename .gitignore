@@ -8,8 +8,10 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-src/main
+src/main.jsx
 src/components
+package.json
+vite.config.js
 dist
 dist-ssr
 *.local
