@@ -1,9 +1,8 @@
-function App() {
+import Movies from "./components/Movies";
+export default function App() {
   return (
     <>
-     <h1>hi there</h1>
+      <Movies />
     </>
-  )
+  );
 }
-
-export default App
