@@ -9,10 +9,10 @@ lerna-debug.log*
 
 node_modules
 src/main.jsx
-src/components
 package.json
 vite.config.js
 dist
+components/Movie.jsx
 dist-ssr
 *.local
 
@@ -26,3 +26,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+app.php
+
