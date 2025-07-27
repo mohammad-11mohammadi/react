@@ -27,4 +27,4 @@ dist-ssr
 *.sln
 *.sw?
 app.php
-
+main.jsx

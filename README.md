@@ -1,2 +1,2 @@
-In the name of Allah 
-This is My first React Project 
+In The name of Allah
+This is my first react Project in React
